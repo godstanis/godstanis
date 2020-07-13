@@ -1,3 +1,3 @@
-## Hi there! :thumbsup:
-<!--
-**godstanis/godstanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0297.gif">
+</p>
